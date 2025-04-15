@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jlink" name="bank-app-jpms:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bank_app_jpms_jar</output-path>
+    <root id="root">
+      <element id="module-output" name="bank-app-jpms" />
+      <element id="module-output" name="Cuenta" />
+      <element id="module-output" name="Cliente" />
+    </root>
+  </artifact>
+</component>
